@@ -1,5 +1,16 @@
 # Express TS template with clean DDD structure.
 
+## Table of Contents
+- [Description](#description),
+- [Prerequisites](#prerequisites),
+- [Features](#features),
+- [Commands](#commands),
+- [Structure](#structure),
+- [Error handling](#error-handling),
+- [Logging](#logging),
+- [Environmental variables](#environment-variables),
+- [Inspirations](#inspirations).
+
 ## Description
 Hello there ✌️
  
@@ -14,16 +25,6 @@ Please keep in mind that this project is a continuous work in progress, and I'm 
 Your feedback and contributions are welcome and appreciated. 🙏
 
 Thank you for considering my template.
-
-## Table of Contents
-- [Prerequisites](#prerequisites)
-- [Features](#features)
-- [Commands](#commands)
-- [Structure](#structure)
-- [Error handling](#error-handling)
-- [Logging](#logging)
-- [Environmental variables](#environment-variables)
-- [Inspirations](#inspirations)
 
 ## Prerequisites
 - Node.js (>=18.0.0),
